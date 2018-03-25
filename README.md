@@ -1,2 +1,3 @@
 # Shipof123
-im new to coding,I enjoy learn more about and using python
+A coding novice intrested in object-oriented programming(OOP) <br>
+and making small, somewhat useful programs to help me learn
