@@ -1,8 +1,0 @@
-def moodfinder():
-  Hello = "Hello, how are you feeling today?"
-  mood = input(": ")
-  If mood = "happy":
-    Print("That is great to hear, have a good day")
-  Elif mood = "sad":
-    Print("That is a shame, why do you feel sad?")
-    #Im not finished i just need some time 
